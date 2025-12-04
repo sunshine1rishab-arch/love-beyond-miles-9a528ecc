@@ -44,7 +44,7 @@ const TheBeginningPage = () => {
             </div>
             <div className="flex items-center gap-2 text-foreground">
               <Clock className="w-5 h-5 text-primary" />
-              <span className="font-lora">10:32 AM</span>
+              <span className="font-lora">10:32 PM</span>
             </div>
           </motion.div>
 
@@ -68,7 +68,7 @@ const TheBeginningPage = () => {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 1.2 }}
               >
-                At exactly 10:32 in the morning. I finally asked you the question that changed my life. "Will you be mine?"
+                At exactly 10:32 in the evening acha night bol lo😝. I finally asked you the question that changed my life. "Will you be mine?"
               </motion.p>
 
               <motion.p
